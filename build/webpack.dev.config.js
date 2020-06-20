@@ -25,7 +25,7 @@ const devConfig = smp.wrap(
       filename: '[name].[hash].js', // string
     },
 
-    module: {},
+    module: {},``
 
     devtool: 'source-map', // enum
     // enhance debugging by adding meta info for the browser devtools
